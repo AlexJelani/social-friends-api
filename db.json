@@ -8,30 +8,34 @@
         "id": 1
       },
       {
-        "id": 3,
+        "id": 2,
         "text": "Twitter",
         "name": "Jelani",
+        "note": "Met at Komeda, Japan",
         "day": "Feb 5th at 2:30pm",
         "reminder": true
       },
       {
         "text": "TikTok",
         "name": "Jelani",
+        "note": "Met at Komeda, Japan",
         "day": "Monday at 4pm",
         "reminder": true,
-        "id": 4
+        "id": 3
       },
       {
         "text": "Twitter",
         "name": "John",
+        "note": "Met at Komeda, Japan",
         "day": "Wednesday at 5pm",
-        "id": 5
+        "id": 4
       },
       {
         "text": "Insta",
         "name": "Joe",
+        "note": "Met at Komeda, Japan",
         "day": "Monday at 5pm",
-        "id": 6
+        "id": 5
       }
     ]
   }
