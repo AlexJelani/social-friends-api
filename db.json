@@ -1,41 +1,39 @@
 {
-    "tasks": [
-      {
-        "text": "Facebook",
-        "name": "Jake",
-        "note": "Met at Komeda, Japan",
-        "day": "Thursday at 2pm",
-        "id": 1
-      },
-      {
-        "id": 2,
-        "text": "Twitter",
-        "name": "Jelani",
-        "note": "Met at Komeda, Japan",
-        "day": "Feb 5th at 2:30pm",
-        "reminder": true
-      },
-      {
-        "text": "TikTok",
-        "name": "Jelani",
-        "note": "Met at Komeda, Japan",
-        "day": "Monday at 4pm",
-        "reminder": true,
-        "id": 3
-      },
-      {
-        "text": "Twitter",
-        "name": "John",
-        "note": "Met at Komeda, Japan",
-        "day": "Wednesday at 5pm",
-        "id": 4
-      },
-      {
-        "text": "Insta",
-        "name": "Joe",
-        "note": "Met at Komeda, Japan",
-        "day": "Monday at 5pm",
-        "id": 5
-      }
-    ]
-  }
+  "tasks": [
+    {
+      "text": "Facebook",
+      "name": "Jake",
+      "note": "Met at Komeda, Japan",
+      "day": "Thursday at 2pm",
+      "id": 1
+    },
+    {
+      "text": "Instagram",
+      "name": "Emma",
+      "note": "Met at a concert",
+      "day": "Monday at 6pm",
+      "id": 2
+    },
+    {
+      "text": "Twitter",
+      "name": "Olivia",
+      "note": "Met at a coffee shop",
+      "day": "Tuesday at 11am",
+      "id": 3
+    },
+    {
+      "text": "Snapchat",
+      "name": "Noah",
+      "note": "Met at the park",
+      "day": "Wednesday at 4pm",
+      "id": 4
+    },
+    {
+      "text": "LinkedIn",
+      "name": "Isabella",
+      "note": "Met at a networking event",
+      "day": "Friday at 9am",
+      "id": 5
+    }
+  ]
+}
